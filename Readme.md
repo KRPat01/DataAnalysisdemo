@@ -5,7 +5,9 @@ I practiced MySQL, PostgreSQL, Python, PoweBI and Tableau through different lear
 ## Projects
 
 
-[Data visualisation with Python](https://github.com/KRPat01/DataAnalysisdemo/blob/main/Python/ProjectReport_Karishma_Pathan.pdf)
+* [Data visualisation with Python](https://github.com/KRPat01/DataAnalysisdemo/blob/main/Python/ProjectReport_Karishma_Pathan.pdf)
+
+* [Data Visualisation with Excel and Tableau](https://github.com/KRPat01/DataAnalysisdemo/blob/main/Tableau/Final%20Project-Vic%20Crashes-Karishma%20Pathan.pdf)
 
 ## PowerBI Samples
 
