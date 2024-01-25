@@ -4,7 +4,8 @@ I practiced MySQL, PostgreSQL, Python, PoweBI and Tableau through different lear
 
 ## PROJECTS
 
-##PROJECT 1 
+## PROJECT 1 
+
 [Data visualisation with Python](https://github.com/KRPat01/DataAnalysisdemo/blob/main/Python/ProjectReport_Karishma_Pathan.pdf)
 
 ## PowerBI Samples
