@@ -2,9 +2,8 @@
 This is my Data Analysis demo.
 I practiced MySQL, PostgreSQL, Python, PoweBI and Tableau through different learning platforms. 
 
-## PROJECTS
+## Projects
 
-## PROJECT 1 
 
 [Data visualisation with Python](https://github.com/KRPat01/DataAnalysisdemo/blob/main/Python/ProjectReport_Karishma_Pathan.pdf)
 
